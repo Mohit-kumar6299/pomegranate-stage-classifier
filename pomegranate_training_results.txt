@@ -1,0 +1,14 @@
+Final Test Accuracy: 0.8771
+
+Test Set Classification Report:
+              precision    recall  f1-score   support
+
+         bud       0.79      0.85      0.82       238
+      flower       0.85      0.77      0.81       275
+ early-fruit       0.77      0.84      0.80       153
+  mid-growth       0.96      0.92      0.94       292
+        ripe       0.99      1.00      0.99       214
+
+    accuracy                           0.88      1172
+   macro avg       0.87      0.88      0.87      1172
+weighted avg       0.88      0.88      0.88      1172
