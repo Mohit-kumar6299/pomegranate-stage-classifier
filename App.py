@@ -1,9 +1,9 @@
 import streamlit as st
-#import timm
-#import torch
+import timm
+import torch
 from PIL import Image
 import numpy as np
-#from torchvision import transforms
+from torchvision import transforms
 
 # Define class labels from the dataset
 CLASSES = ['bud', 'flower', 'early-fruit', 'mid-growth', 'ripe']
